@@ -16,7 +16,9 @@ signal            : @Arctesian
 ## Contributing
 
 ### Actual Useful information
-To run the app, clone the dir and then run `yarn install`, `yarn run build`, `yarn run dev --open`
+If you just want to edit the questions then you can edit them [here](https://github.com/TheArctesian/TableQuestions.net/blob/main/src/routes/questionbank.json) on github.
+
+To run the app on localhost, clone the dir and then run `yarn install`, `yarn run build`, `yarn run dev --open`
 
 
 ### Thank you

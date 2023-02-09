@@ -7,8 +7,8 @@
         Hello I made this website for fun you can find out who I am at my
         website <a href="https://www.danielokita.com" class="underline link"
             >danielokita.com</a
-        >, Email me at <span class="underline">me@danielokita.com</span>, or
-        find me on these places:
+        >
+        or find me on these places:
     </h1>
     <div class="text-center ">
         <div class="content">
@@ -34,12 +34,10 @@
             </div>
         </div>
         <h1>
-            as well as the source code for this website <a
+            the source code for this website can be found<a
                 class="s"
                 href="https://github.com/TheArctesian/TableQuestions.net"
-            >
-                here</a
-            >
+            >here</a>
         </h1>
         <h1>
             If you would like to donate to me you can find my eth links bellow
@@ -53,19 +51,35 @@
                 </b>`addr1q85kef4y4zx4lyxyuq3wgec3nddn53wv6nmydrc6eyx5l47jdatz0hja95dudtxclcjp8ejkthl6hl5xjfregk9lllrs8um6c0`
             </h1>
         </div>
-        <div >
+        <div>
             <a href="https://ko-fi.com/N4N5ILAUX" target="_blank"
                 ><img
-class="flex w-full s"
+                    class="flex w-full s"
                     src="https://storage.ko-fi.com/cdn/kofi3.png?v=3"
                     alt="Buy Me a Coffee at ko-fi.com"
                 /></a
             >
         </div>
+        <div class="back">
+            <a href="/">Back to app</a>
+        </div>
     </div>
 </div>
 
 <style>
+    .back{
+        margin:auto;
+        border-radius: 0.2rem;
+        font-weight: bold;
+        padding: 1rem;
+        width: fit-content;
+        border: .2rem solid var(--purple);
+        transition: all ease-in-out 200ms;
+    }
+    .back:hover{
+        transition: all ease-in-out 200ms;
+        padding: .5rem;
+    }
     .donate {
         width: fit-content;
         padding: 1rem;
@@ -154,7 +168,7 @@ class="flex w-full s"
         transition: all ease-in-out 200ms;
         width: 7.5vw;
     }
-    .s{
+    .s {
         padding: 1rem;
         margin: auto;
         width: 40vw;
