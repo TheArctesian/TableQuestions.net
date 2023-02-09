@@ -19,7 +19,7 @@
 
 <div class="card margin-auto text-center flex-col">
     <div class="c">
-        <h1 class="text-left text-3xl"><b>Question: </b>{question}</h1>
+        <h1 class="text-center text-2xl"><b class="text-3xl">Question: </b><br /><br />{question}</h1>
         <br />
         <br />
         <button class="but" on:click={genRandomQuestion}
@@ -45,13 +45,12 @@
     }
     .but:hover {
         transition: all ease-in-out 200ms;
-        background-color: var(--red);
     }
     .card {
         display: flex;
         height: fit-content;
         margin: 1rem;
-        background-color: var(--red);
+        background-color: var(--purple);
         padding: 1rem;
         border-radius: 1rem;
     }
