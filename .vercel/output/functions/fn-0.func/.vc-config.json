@@ -1,5 +1,0 @@
-{
-	"runtime": "nodejs18.x",
-	"handler": "home/daniel/Scripts/Project/Table-Topics-Card-API/.svelte-kit/vercel-tmp/index.js",
-	"launcherType": "Nodejs"
-}
