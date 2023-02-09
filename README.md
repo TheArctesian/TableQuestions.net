@@ -16,7 +16,7 @@ signal            : @Arctesian
 ## Contributing
 
 ### Actual Useful information
-To run the app, clone the dir and then run 'yarn install', 'yarn run build', 'yarn run dev --open'
+To run the app, clone the dir and then run `yarn install`, `yarn run build`, `yarn run dev --open`
 
 
 ### Thank you
