@@ -9,7 +9,7 @@
         try {
             let num = Math.floor(Math.random() * questionLength);
             question = questions[num].Question;
-            questions.splice(num, 1); 
+            questions.splice(num, 1);
         } catch (error) {
             question = "you have exhausted all the questions, refresh the tab";
         }
@@ -18,27 +18,47 @@
 </script>
 
 <div class="card margin-auto text-center flex-col">
-    <div class="c">
-        <h1 class="text-center text-2xl"><b class="text-3xl">Question: </b><br /><br />{question}</h1>
-        <br />
-        <br />
-        <button class="but" on:click={genRandomQuestion}
-            >Get a new question</button
-        >
+    <div class="c flex flex-col justifty-between">
+        <div class="cc">
+            <h1 class="text-center m-auto text-2xl">
+                <b class="text-3xl">Question: </b><br />
+            </h1>
+        </div>
+        <div class="cc">
+            <Typewriter interval="10">
+                <h1>{question}</h1>
+            </Typewriter>
+        </div>
+        <div class="cc">
+            <button class="but" on:click={genRandomQuestion}
+                >Get a new question</button
+            >
+        </div>
+        <div class="cc">
+                <a href="/about"class="text-l underline a">About this website</a>
+        </div>
     </div>
 </div>
 
 <style>
+    .a{
+        color: var(--selection);
+    }
+    .cc {
+        margin: 1rem;
+    }
     .c {
         margin: auto;
+
+        justify-content: space-between;
         background-color: var(--fg);
         padding: 1rem;
-        border-radius: 1rem;
+        border-radius: 0.2rem;
     }
     .but {
         margin: auto;
         padding: 1rem;
-        border-radius: 1rem;
+        border-radius: 0.2rem;
         color: white;
         background-color: var(--bg);
         transition: all ease-in-out 200ms;
@@ -48,9 +68,8 @@
     }
     .card {
         display: flex;
-        height: fit-content;
+        height: 96vh;
         margin: 1rem;
-        background-color: var(--purple);
         padding: 1rem;
         border-radius: 1rem;
     }
