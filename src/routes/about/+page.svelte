@@ -61,24 +61,27 @@
             >
         </div>
         <div class="back">
-            <a href="/">Back to app</a>
+            <a href="/" class="colors">Back to app</a>
         </div>
     </div>
 </div>
 
 <style>
+    
     .back{
         margin:auto;
         border-radius: 0.2rem;
         font-weight: bold;
-        padding: 1rem;
+        padding: .5rem;
         width: fit-content;
         border: .2rem solid var(--purple);
-        transition: all ease-in-out 200ms;
+        transition: all ease-in-out 100ms;
+        background-color: var(--purple);
     }
     .back:hover{
-        transition: all ease-in-out 200ms;
-        padding: .5rem;
+        color: var(--purple) !important;
+        transition: all ease-in-out 100ms;
+        padding: .6rem;
     }
     .donate {
         width: fit-content;
@@ -172,5 +175,8 @@
         padding: 1rem;
         margin: auto;
         width: 40vw;
+    }
+.colors{
+        color: var(--fg);
     }
 </style>
