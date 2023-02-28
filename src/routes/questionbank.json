@@ -360,7 +360,7 @@
     "Question": "What do you want written on your gravestone?"
   },
   {
-    "Question": "Which book dramatically change your life?"
+    "Question": "Which piece of media dramatically change your life?"
   },
   {
     "Question": "Ask each person to say what celebrity you resemble?"
@@ -370,5 +370,68 @@
   },
   {
     "Question": "If you could stop time what would you do?"
+  },
+  {
+    "Question": "What is one object that represents you?"
+  },
+  {
+    "Question": "What are your three biggest critiques you have with yourself?"
+  },
+  {
+    "Question": "What are your worst character traits?"
+  },
+  {
+    "Question": "What are your best character traits?"
+  },
+  {
+    "Question": "Go around the room and have each person say one word about you (they cannot be the same word)?"
+  },
+  {
+    "Question": "What motivates you to work hard?"
+  },
+  {
+    "Question": "Who is your hero?"
+  },
+  {
+    "Question": "What makes you angry?"
+  },
+  {
+    "Question": "Do you like or dislike surprises? Why or why not?"
+  },
+  {
+    "Question": "What is your proudest accomplishment?"
+  },
+  {
+    "Question": "Where do you see yourself in five years?"
+  },
+  {
+    "Question": "List two pet peeves?"
+  },
+  {
+    "Question": "Do you consider yourself an introvert or an extrovert?"
+  },
+  {
+    "Question": "What are you most thankful for?"
+  },
+  {
+    "Question": "What was the worst phase in your life?"
+  },
+  {
+    "Question": "Would you ever take back someone who cheated?"
+  },
+  {
+    "Question": "What is a relationship deal breaker for you?"
+  },
+  {
+    "Question": "What did your past relationship teach you?"
+  },
+  {
+    "Question": "What’s the best gag gift you’ve ever seen or gotten?"
+  },
+  {
+    "Question": "If you could start a business what would it be?"
+  },
+  {
+    "Question": "Is it easier to love of be loved?"
   }
 ]
