@@ -74,14 +74,11 @@
         font-weight: bold;
         padding: .5rem;
         width: fit-content;
-        border: .2rem solid var(--purple);
         transition: all ease-in-out 100ms;
-        background-color: var(--purple);
     }
     .back:hover{
         color: var(--purple) !important;
         transition: all ease-in-out 100ms;
-        padding: .6rem;
     }
     .donate {
         width: fit-content;
@@ -174,9 +171,9 @@
     .s {
         padding: 1rem;
         margin: auto;
-        width: 40vw;
+        width: 30vw;
     }
 .colors{
-        color: var(--fg);
+        color: var(--selection);
     }
 </style>
