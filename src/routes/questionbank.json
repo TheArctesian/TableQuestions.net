@@ -30,10 +30,13 @@
     "Question": "Which of your ancestors would you most like to meet?"
   },
   {
+    "Question": "If you could go back in time what would you change?"
+  },
+  {
     "Question": "Are you proudest of your accomplishments or your character?"
   },
   {
-    "Question": "What Posters did you have in your room when you were young?"
+    "Question": "What posters did you have in your room when you were young?"
   },
   {
     "Question": "What’s the most fun party you ever attended?"
@@ -49,9 +52,6 @@
   },
   {
     "Question": "Is science or art more important to humanity?"
-  },
-  {
-    "Question": "Is it more important to be book or street smart?"
   },
   {
     "Question": "Would you rather be the worst player on a winning team or the best on a losing team?"
@@ -81,9 +81,6 @@
     "Question": "What is your favourite movie?"
   },
   {
-    "Question": "What landmark would you most like to see?"
-  },
-  {
     "Question": "What was your most memorable meal?"
   },
   {
@@ -108,9 +105,6 @@
     "Question": "Are you spiritual?"
   },
   {
-    "Question": "Is it more important to develop beliefs or gain knowledge?"
-  },
-  {
     "Question": "Would you rather meet your great-grandparents or your great-grandchildren?"
   },
   {
@@ -129,19 +123,10 @@
     "Question": "What language would like to speak fluently?"
   },
   {
-    "Question": "What remains undone that you have wanted to do for years?"
-  },
-  {
     "Question": "How many different places have you lived?"
   },
   {
-    "Question": "What is the biggest lie you told as a child?"
-  },
-  {
-    "Question": "What is the best advice your mother gave you?"
-  },
-  {
-    "Question": "What is the best advice your father gave you?"
+    "Question": "What is the best advice your parents gave you?"
   },
   {
     "Question": "What is your favourite song to play in the car?"
@@ -150,19 +135,10 @@
     "Question": "How do you define success?"
   },
   {
+    "Question": "How do you define happiness?"
+  },
+  {
     "Question": "What would you miss most about your home if you moved?"
-  },
-  {
-    "Question": "Who is your favourite athlete?"
-  },
-  {
-    "Question": "Which piece of land would you preserve forever?"
-  },
-  {
-    "Question": "Who is the most optimistic person you know?"
-  },
-  {
-    "Question": "What is more important respect from your children or parents?"
   },
   {
     "Question": "What is your favourite quote?"
@@ -171,7 +147,7 @@
     "Question": "When you are down what makes you feel better?"
   },
   {
-    "Question": "How will our culture change in the next 100 years?"
+    "Question": "What is your ideal first date?"
   },
   {
     "Question": "Where would you most like to travel?"
@@ -180,40 +156,19 @@
     "Question": "Where would you most like to live?"
   },
   {
-    "Question": "If you could be any athlete for a single game who would you choose?"
-  },
-  {
-    "Question": "What would you most like to learn to do on a computer?"
-  },
-  {
     "Question": "What do you wish you had time to learn?"
   },
   {
-    "Question": "What pets have you had?"
-  },
-  {
-    "Question": "What have you lost that you would like to find?"
-  },
-  {
-    "Question": "What to you is the greatest wonder of the world?"
-  },
-  {
-    "Question": "What is the most amazing landscape you have seen?"
-  },
-  {
-    "Question": "Do you live in the past, present or future?"
-  },
-  {
-    "Question": "At what age do you think your life peaked or will peak?"
+    "Question": "At what age do you think your life peaked or would you like to peak?"
   },
   {
     "Question": "What is your favourite fast food meal?"
   },
   {
-    "Question": "What is the most beautiful place you have seen?"
+    "Question": "What is the most beautiful place ever been?"
   },
   {
-    "Question": "If you could spend the weekend in any city which would you choose?"
+    "Question": "What do you wish you appreciated at an earlier age?"
   },
   {
     "Question": "If you only had 5 more years to live what would you change?"
@@ -225,9 +180,6 @@
     "Question": "Go around the table and say what you admire about each person?"
   },
   {
-    "Question": "If you could change your name what would you choose?"
-  },
-  {
     "Question": "What is the most impactful thing you have done?"
   },
   {
@@ -237,10 +189,10 @@
     "Question": "What are you most passionate about?"
   },
   {
-    "Question": "What change would you most like to make for your health?"
+    "Question": "What change would you make to the world?"
   },
   {
-    "Question": "What are your favourite simple pleasures?"
+    "Question": "What are your simple pleasures?"
   },
   {
     "Question": "What is the best vacation you have ever had?"
@@ -252,19 +204,16 @@
     "Question": "If you could give all humans one virtue which would you choose?"
   },
   {
-    "Question": "Would you rather age forward or backwards at this point?"
+    "Question": "What age would you like to stop ageing?"
   },
   {
     "Question": "What do you miss most about childhood?"
   },
   {
-    "Question": "Which country did your family come from?"
+    "Question": "Are you connected with you heritage?"
   },
   {
-    "Question": "Where do you consider 'home' is for you?"
-  },
-  {
-    "Question": "What activity would you an expert to teach you?"
+    "Question": "Where do you consider as 'home'?"
   },
   {
     "Question": "Do you have any superstitions?"
@@ -275,10 +224,7 @@
   {
     "Question": "If you could get a tattoo what would you get and where would you put it?"
   },
-  {
-    "Question": "If money were no object what kind of party would you throw?"
-  },
-  {
+ {
     "Question": "What era would you like to have grown up in?"
   },
   {
@@ -291,16 +237,10 @@
     "Question": "Would you rather be a great musician, artist, author or athlete?"
   },
   {
-    "Question": "What would you most like to do for someone else if you had the money and time?"
-  },
-  {
     "Question": "What was your favourite game as a kid?"
   },
   {
     "Question": "Who is the best teacher you have ever had (in or outside of school)?"
-  },
-  {
-    "Question": "What would your ideal room be?"
   },
   {
     "Question": "If you did not have to worry about money what would you do with your life?"
@@ -342,13 +282,7 @@
     "Question": "What subject would you most like to master?"
   },
   {
-    "Question": "What was your favourite meal as a kid?"
-  },
-  {
     "Question": "What historical period would you most like to visit? Why?"
-  },
-  {
-    "Question": "Why do you get up in the morning?"
   },
   {
     "Question": "Why do you think your raison d'être (reason for existence) is?"
@@ -363,16 +297,10 @@
     "Question": "Which piece of media dramatically change your life?"
   },
   {
-    "Question": "Ask each person to say what celebrity you resemble?"
-  },
-  {
     "Question": "What do love about your home town?"
   },
   {
     "Question": "If you could stop time what would you do?"
-  },
-  {
-    "Question": "What is one object that represents you?"
   },
   {
     "Question": "What are your three biggest critiques you have with yourself?"
@@ -387,16 +315,10 @@
     "Question": "Go around the room and have each person say one word about you (they cannot be the same word)?"
   },
   {
-    "Question": "What motivates you to work hard?"
-  },
-  {
     "Question": "Who is your hero?"
   },
   {
     "Question": "What makes you angry?"
-  },
-  {
-    "Question": "Do you like or dislike surprises? Why or why not?"
   },
   {
     "Question": "What is your proudest accomplishment?"
@@ -405,10 +327,7 @@
     "Question": "Where do you see yourself in five years?"
   },
   {
-    "Question": "List two pet peeves?"
-  },
-  {
-    "Question": "Do you consider yourself an introvert or an extrovert?"
+    "Question": "List your biggest pet peeves?"
   },
   {
     "Question": "What are you most thankful for?"
@@ -426,12 +345,12 @@
     "Question": "What did your past relationship teach you?"
   },
   {
-    "Question": "What’s the best gag gift you’ve ever seen or gotten?"
-  },
-  {
     "Question": "If you could start a business what would it be?"
   },
   {
     "Question": "Is it easier to love of be loved?"
+  },
+  {
+    "Question": "What does love mean to you?"
   }
 ]
