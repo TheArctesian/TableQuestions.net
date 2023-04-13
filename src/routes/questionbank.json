@@ -224,7 +224,7 @@
   {
     "Question": "If you could get a tattoo what would you get and where would you put it?"
   },
- {
+  {
     "Question": "What era would you like to have grown up in?"
   },
   {
@@ -336,7 +336,7 @@
     "Question": "What was the worst phase in your life?"
   },
   {
-    "Question": "Would you ever take back someone who cheated?"
+    "Question": "Would you ever take back someone who cheated? Why?"
   },
   {
     "Question": "What is a relationship deal breaker for you?"
@@ -352,5 +352,11 @@
   },
   {
     "Question": "What does love mean to you?"
+  },
+  {
+    "Question": "What is your type?"
+  },
+  {
+    "Question": "What is the hardest day you've ever had?"
   }
 ]
