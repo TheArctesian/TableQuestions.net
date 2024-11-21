@@ -24,6 +24,8 @@
 	"type": "module",
 	"dependencies": {
 		"@sveltejs/adapter-vercel": "^2.0.2",
+		"@vercel/analytics": "^1.4.1",
+		"svelte-preprocess": "^6.0.3",
 		"svelte-typewriter": "^3.1.4"
 	}
 }

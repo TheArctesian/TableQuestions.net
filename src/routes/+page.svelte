@@ -1,9 +1,12 @@
-<script lang="ts">
+<script>
     import Typewriter from "svelte-typewriter";
     import questions from "./questionbank.json";
-    let askedQuestion: string[] = [];
-    let questionLength: number;
-    let question: string = "Press the button to get a questions";
+    let askedQuestion = [];
+    // let askedQuestion: string[] = [];
+    // let questionLength: number;
+    let questionLength;
+    let question = "Press the button to get a questions";
+    // let question: string = "Press the button to get a questions";
     function genRandomQuestion() {
         questionLength = questions.length;
         try {
@@ -25,7 +28,7 @@
             </h1>
         </div>
         <div class="cc">
-            <Typewriter interval="10">
+            <Typewriter interval={10}>
                 <h1>{question}</h1>
             </Typewriter>
         </div>
