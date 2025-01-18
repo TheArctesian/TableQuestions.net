@@ -23,11 +23,11 @@
 <div class="card margin-auto text-center flex-col">
     <div class="c flex flex-col justifty-between">
         <div class="cc">
-            <h1 class="text-center m-auto text-2xl">
+            <h1 class="text-center m-auto ">
                 <b class="text-3xl">Question: </b><br />
             </h1>
         </div>
-        <div class="cc">
+        <div class="cc text-xl">
             <Typewriter interval={10}>
                 <h1>{question}</h1>
             </Typewriter>
@@ -52,7 +52,6 @@
     }
     .c {
         margin: auto;
-
         justify-content: space-between;
         background-color: var(--fg);
         padding: 1rem;
@@ -67,13 +66,13 @@
         transition: all ease-in-out 200ms;
     }
     .but:hover {
-        transition: all ease-in-out 200ms;
+    transform: scale(105%);
     }
+
     .card {
         display: flex;
-        height: 96vh;
-        margin: 1rem;
-        padding: 1rem;
+        margin: auto;
         border-radius: 1rem;
+        padding: 1rem;
     }
 </style>

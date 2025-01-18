@@ -69,19 +69,7 @@
     "Question": "What dead person would you most like to meet?"
   },
   {
-    "Question": "What is your favourite app?"
-  },
-  {
-    "Question": "What is your favourite website?"
-  },
-  {
-    "Question": "What is your favourite book?"
-  },
-  {
-    "Question": "What is your favourite video game?"
-  },
-  {
-    "Question": "What is your favourite movie?"
+    "Question": "What is your favorite app?"
   },
   {
     "Question": "What was your most memorable meal?"
@@ -111,12 +99,6 @@
     "Question": "Would you rather meet your great-grandparents or your great-grandchildren?"
   },
   {
-    "Question": "If you had a million dollars what is the first thing you would do?"
-  },
-  {
-    "Question": "What household disaster happened to you?"
-  },
-  {
     "Question": "Is justice or forgiveness more important?"
   },
   {
@@ -130,9 +112,6 @@
   },
   {
     "Question": "What is the best advice your parents gave you?"
-  },
-  {
-    "Question": "What is your favourite song to play in the car?"
   },
   {
     "Question": "How do you define success?"
@@ -163,9 +142,6 @@
   },
   {
     "Question": "At what age do you think your life peaked or would you like to peak?"
-  },
-  {
-    "Question": "What is your favourite fast food meal?"
   },
   {
     "Question": "What is the most beautiful place ever been?"
@@ -202,9 +178,6 @@
   },
   {
     "Question": "What is your favourite dessert?"
-  },
-  {
-    "Question": "If you could give all humans one virtue which would you choose?"
   },
   {
     "Question": "What age would you like to stop ageing?"
@@ -375,7 +348,7 @@
     "Question": "When did you realise life was not fair?"
   },
   {
-    "Question": "Given the choice of anyone in the world, whom would you want as a dinner guest?"
+    "Question": "What would you want as a dinner guest?"
   },
   {
     "Question": "Would you like to be famous? In what way?"
@@ -390,31 +363,19 @@
     "Question": "When did you last sing to yourself? To someone else?"
   },
   {
-    "Question": "If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?"
-  },
-  {
     "Question": "Do you have a secret hunch about how you will die?"
   },
   {
-    "Question": "Name three things you and your partner appear to have in common."
-  },
-  {
-    "Question": "For what in your life do you feel most grateful?"
+    "Question": "Name three things you and past/current romantic partners have had in common."
   },
   {
     "Question": "If you could change anything about the way you were raised, what would it be?"
   },
   {
-    "Question": "Take four minutes and tell your partner your life story in as much detail as possible."
+    "Question": "Pick one person and the group will attempt to tell their life story in as much detail as possible."
   },
   {
-    "Question": "If you could wake up tomorrow having gained any one quality or ability, what would it be?"
-  },
-  {
-    "Question": "If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know?"
-  },
-  {
-    "Question": "Is there something that you've dreamed of doing for a long time? Why haven't you done it?"
+    "Question": "If a crystal ball could tell you the truth about yourself, your life, the future, or anything else, what would you want to know? The group is now the crystal ball and will attempt to answer"
   },
   {
     "Question": "What is the greatest accomplishment of your life?"
@@ -426,52 +387,19 @@
     "Question": "What is your most treasured memory?"
   },
   {
-    "Question": "What is your most terrible memory?"
-  },
-  {
     "Question": "If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?"
   },
   {
     "Question": "What does friendship mean to you?"
   },
   {
-    "Question": "What roles do love and affection play in your life?"
-  },
-  {
-    "Question": "Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items."
-  },
-  {
-    "Question": "How close and warm is your family? Do you feel your childhood was happier than most other people's?"
-  },
-  {
-    "Question": "How do you feel about your relationship with your mother?"
-  },
-  {
-    "Question": "Make three true 'we' statements each. For instance, 'We are both in this room feeling...'"
-  },
-  {
     "Question": "Complete this sentence: 'I wish I had someone with whom I could share...'"
-  },
-  {
-    "Question": "If you were going to become a close friend with your partner, please share what would be important for them to know."
-  },
-  {
-    "Question": "Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you've just met."
-  },
-  {
-    "Question": "Share an embarrassing moment in your life."
-  },
-  {
-    "Question": "When did you last cry in front of another person? By yourself?"
-  },
-  {
-    "Question": "Tell your partner something that you like about them already."
   },
   {
     "Question": "What, if anything, is too serious to be joked about?"
   },
   {
-    "Question": "If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven't you told them yet?"
+    "Question": "What is one thing you haven't told someone yet? Why not?"
   },
   {
     "Question": "Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?"
@@ -480,6 +408,15 @@
     "Question": "Of all the people in your family, whose death would you find most disturbing? Why?"
   },
   {
-    "Question": "Share a personal problem and ask your partner's advice on how they might handle it. Then, ask your partner to reflect on how you seem to be feeling about the problem you have chosen."
+    "Question": "Which parent are you more similar too?"
+  },
+  {
+    "Question": "How and why are your siblings different? If you are an only child give your bet only child impression."
+  },
+  {
+    "Question": "How would you raise a child? (If you are struggling start with location then education...)"
+  },
+  {
+    "Question": "Pick one person to tell a story, the group will have to deicide if it is true of false."
   }
 ]

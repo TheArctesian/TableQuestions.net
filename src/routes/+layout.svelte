@@ -6,9 +6,19 @@
   injectAnalytics({ mode: dev ? "development" : "production" });
 </script>
 
-<slot />
+<div class="wrappy">
+  <slot />
+</div>
 
 <style>
+
+  .wrappy {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
   :global(body) {
     background-color: var(--bg);
     font-family: "Fira Code", monospace;
